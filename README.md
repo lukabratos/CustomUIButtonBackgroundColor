@@ -1,4 +1,4 @@
-Basic iPhone application demonstrating usage of Zemanta API.
+Set custom background color to UIButton with UIColor.
 =============
 -------------
 
@@ -14,5 +14,5 @@ This application was tested on iOS 6 simulator and is using Automatic Reference 
 Usage
 =====
 
-* #import <QuartzCore/QuartzCore.h>
+* `#import <QuartzCore/QuartzCore.h>`
 * Set Button Type to Custom
